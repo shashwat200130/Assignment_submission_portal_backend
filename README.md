@@ -16,10 +16,10 @@ upload assignments, while admins can view, accept, or reject these assignments.
 1. Clone the Repository
 git clone <repository-url>
 cd <repository directory>
-2. Install Dependencies
+3. Install Dependencies
 Make sure you have Node.js and npm installed.
 npm install.
-3. Start the Application
+4. Start the Application
 Run the following command to start your Express server:
 Node .\index.js
 
